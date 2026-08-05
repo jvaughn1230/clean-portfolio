@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" role="img" aria-label="Project thumbnail">
+  <rect width="640" height="400" fill="#e8f4f8"/>
+  <rect x="48" y="48" width="544" height="304" rx="12" fill="#0a7ea4" opacity="0.14"/>
+  <text x="320" y="205" text-anchor="middle" fill="#0b3d5c" font-family="system-ui,sans-serif" font-size="28" font-weight="600">Project One</text>
+</svg>
