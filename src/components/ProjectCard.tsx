@@ -15,7 +15,7 @@ export function ProjectCard({ project }: ProjectCardProps) {
       }}
     >
       <div
-        className="aspect-[16/10] overflow-hidden border-b"
+        className="aspect-[2/1] overflow-hidden border-b"
         style={{
           backgroundColor: "var(--bg-secondary)",
           borderColor: "var(--border-color)",
@@ -24,8 +24,8 @@ export function ProjectCard({ project }: ProjectCardProps) {
         <Image
           src={project.thumbnail}
           alt={`${project.title} thumbnail`}
-          width={640}
-          height={400}
+          width={1886}
+          height={892}
           className="h-full w-full object-contain"
         />
       </div>

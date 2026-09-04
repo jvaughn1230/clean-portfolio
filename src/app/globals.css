@@ -79,3 +79,7 @@ a {
 .fade-in {
   animation: fadeIn 0.5s ease-in;
 }
+
+.theme-night .skill-icon-invert {
+  color: var(--heading-color) !important;
+}
